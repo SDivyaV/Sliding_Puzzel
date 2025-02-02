@@ -1,9 +1,10 @@
-**Description**
+****Description**:**
+
 A simple sliding puzzle game implemented using HTML, CSS, and JavaScript. 
 The objective is to rearrange the shuffled image tiles in the correct order, from 1.jpg to 10.jpg. 
 The game tracks the number of moves you make to complete the puzzle.
 
-**Features**
+****Features**:**
 
 1. Drag-and-drop functionality for swapping tiles
 
